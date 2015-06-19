@@ -1,1 +1,1 @@
-# Ordina.YP.Excercises 
+# Ordina.YP.Excercises [![Build status](https://ci.appveyor.com/api/projects/status/dca623i1m9lsgkh4?svg=true)](https://ci.appveyor.com/project/PascalKlarenbeek/ordina-yp-excercises)
