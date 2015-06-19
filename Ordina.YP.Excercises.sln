@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordina.YP.Palindroom", "src\Ordina.YP.Palindroom\Ordina.YP.Palindroom.csproj", "{5DFC73E8-1C61-497C-9297-8B78A0BCD38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordina.YP.PriemGetal", "src\Ordina.YP.PriemGetal\Ordina.YP.PriemGetal.csproj", "{4E03940F-04DE-4672-AA81-D1E6C1D4A229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFC73E8-1C61-497C-9297-8B78A0BCD38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFC73E8-1C61-497C-9297-8B78A0BCD38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFC73E8-1C61-497C-9297-8B78A0BCD38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFC73E8-1C61-497C-9297-8B78A0BCD38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E03940F-04DE-4672-AA81-D1E6C1D4A229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E03940F-04DE-4672-AA81-D1E6C1D4A229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E03940F-04DE-4672-AA81-D1E6C1D4A229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E03940F-04DE-4672-AA81-D1E6C1D4A229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
